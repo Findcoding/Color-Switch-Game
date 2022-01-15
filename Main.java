@@ -1,7 +1,4 @@
-package com.example.demo;
-
-
-// MADE BY BIJENDAR PRASAD(2019238)  AND  MITUL(2019254)...  (Press ctrl + up/down arrow to move ball)
+package com.example.ColorSwitchGame;
 
 
 import javafx.application.*;
@@ -39,7 +36,7 @@ import java.util.concurrent.TimeUnit;
 
 
 
-public class game extends Application {
+public class Main extends Application {
 
     private Timeline t;
     private Thread t1;
@@ -58,7 +55,7 @@ public class game extends Application {
     private static int current;
     private static int next;
 
-    public game() {
+    public Main() {
 
 //    	obj.add(Black());
 //    	obj.add(Line());
@@ -636,7 +633,6 @@ public class game extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-
 
 }
 

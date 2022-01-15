@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.ColorSwitchGame;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
@@ -42,7 +42,7 @@ public class ball extends Application {
     @Override
     public void start (Stage stage) {
 
-        stage.setTitle ("Animation2");
+        stage.setTitle ("ball");
         root = new Group();
         Scene scene = new Scene(root, 800, 800, Color.BLACK);
         stage.setScene(scene);

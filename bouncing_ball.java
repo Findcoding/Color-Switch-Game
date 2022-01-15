@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.ColorSwitchGame;
 
 import javafx.application.Application;
 import javafx.stage.Stage;

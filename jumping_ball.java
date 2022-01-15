@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.ColorSwitchGame;
 
 import static java.lang.Math.PI;
 import static java.lang.Math.cos;

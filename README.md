@@ -17,6 +17,12 @@ A game made in Javafx where ball only touch different rotating obstacles that ha
 ```
 
 
+## Sample Video:
+---
+
+https://user-images.githubusercontent.com/69085143/149622814-0b7e9f2b-1468-4cd9-8203-31d968bbcc3a.mp4
+
+
 
 ## Animation 1:
 ---

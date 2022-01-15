@@ -148,7 +148,7 @@ public class Main extends Application {
         b.setOnAction(e -> Platform.exit());
 
         // Image....
-        Image image = new Image(new FileInputStream("C:\\Users\\Prasa\\Desktop\\download.png"));
+        Image image = new Image("file:Media/download.png"));
 
         ImageView imageView = new ImageView(image);
 
@@ -164,7 +164,7 @@ public class Main extends Application {
 
 
         //MUSIC.....
-        String path = "C:\\Users\\Prasa\\Desktop\\Intro.mp3";
+        String path = "Media/Intro.mp3";
         Media media = new Media(new File(path).toURI().toString());
         MediaPlayer mediaPlayer = new MediaPlayer(media);
 

@@ -2,7 +2,12 @@
 ![cs_logo_text_dk](https://user-images.githubusercontent.com/69085143/149621883-662b6f78-4e15-49e4-9d70-74858466b7b0.png)
 
 
-A game made in Javafx where ball only touch different rotating obstacles that have same color.
+A game made in Javafx that includes animation, background music, and view leaderboards. To keep the game alive, a player has to move the ball up/down by pressing the up/down arrow so that the ball only touches different rotating obstacles with the same color. ..
+
+## Features to be added later:
+---
+1. Multiplayer mode.
+2. Save previous state of a game.
 
 
 ## Steps

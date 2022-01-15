@@ -1,5 +1,6 @@
 # Color-Switch-Game
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcolorswitch.co%2F&psig=AOvVaw2QQnDFRYWBNchtH50d1k4B&ust=1642336310748000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLDW-Nbhs_UCFQAAAAAdAAAAABAJ)
+![cs_logo_text_dk](https://user-images.githubusercontent.com/69085143/149621883-662b6f78-4e15-49e4-9d70-74858466b7b0.png)
+
 
 A game made in Javafx where ball only touch different rotating obstacles that have same color.
 

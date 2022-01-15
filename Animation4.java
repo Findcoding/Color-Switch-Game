@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.ColorSwitchGame;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
@@ -83,35 +83,6 @@ public class Animation4 extends Application{
         Scene scene = new Scene(canvas, 800, 800);
         scene.setFill(Color.BLACK);
 
-//        Circle ball = new Circle(20, Color.WHITE);
-//        ball.relocate(0, 400);
-//        canvas.getChildren().add(ball);
-
-
-//        Button b = new Button();
-//        b.setText("EXIT");
-//        b.relocate(500, 700);
-//
-//        Button b1 = new Button();
-//        b1.setText("PAUSE");
-//        b1.relocate(370, 700);
-//        canvas.getChildren().add(b1);
-//
-//        Button b2 = new Button();
-//        b2.setText("NEW GAME");
-//        b2.relocate(200, 700);
-//        canvas.getChildren().add(b2);
-
-
-
-
-//
-////        StackPane root = new StackPane();
-//        canvas.getChildren().add(b);
-//        b.setOnAction(e -> Platform.exit());
-
-
-
         stage.setTitle("Moving Ball");
         stage.setScene(scene);
         stage.show();
@@ -122,21 +93,6 @@ public class Animation4 extends Application{
         GetBall(Color.WHITE, 4, 300);
         GetBall(Color.BLUE, 5, 400);
 
-
-//        Bounds bounds = canvas.getBoundsInLocal();
-//        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(2),
-//                new KeyValue(ball.layoutXProperty(), bounds.getMaxX()-ball.getRadius())));
-
-//        b2.setOnAction(e-> {
-//            timeline.play();
-//        });
-//
-//        b1.setOnAction(e->{
-//            timeline.pause();
-//        });
-
-//        timeline.setCycleCount(20);
-//        timeline.play();
     }
 
     private void GetBall(Color x, int time, int dist) {

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.ColorSwitchGame;
 
 import javafx.animation.PathTransition;
 import javafx.application.Application;
@@ -75,7 +75,7 @@ public class Animation5 extends Application{
         rotate.setAutoReverse(true);
 
         //setting Rectangle as the node onto which the
-// transition will be applied
+        // transition will be applied
         rotate.setNode(rect);
 
         //playing the transition

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.ColorSwitchGame;
 
 import java.util.*;
 import java.io.File;

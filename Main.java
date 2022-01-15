@@ -150,6 +150,9 @@ public class Main extends Application {
         // Image....
         Image image = new Image("file:Media/download.png"));
 
+        // Image image = new Image(new FileInputStream("C:\\Users\\Prasa\\Desktop\\download.png"));
+
+
         ImageView imageView = new ImageView(image);
 
         imageView.setX(200);
@@ -165,6 +168,7 @@ public class Main extends Application {
 
         //MUSIC.....
         String path = "Media/Intro.mp3";
+        // String path = "C:\\Users\\Prasa\\Desktop\\Intro.mp3";
         Media media = new Media(new File(path).toURI().toString());
         MediaPlayer mediaPlayer = new MediaPlayer(media);
 

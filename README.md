@@ -14,7 +14,9 @@ A game made in Javafx where ball only touch different rotating obstacles that ha
 ```
 
 ## Pictorial Representation:
-<img src="images/BTP - Page1.jpeg" width="800px" height="500px">
+<video width="320" height="240" autoplay muted>
+  <source src="video/video1.mp4" type="video/mp4">
+</video>
 
 ---
 

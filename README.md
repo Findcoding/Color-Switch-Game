@@ -35,6 +35,11 @@ https://user-images.githubusercontent.com/69085143/149622814-0b7e9f2b-1468-4cd9-
 ![Animation1](https://user-images.githubusercontent.com/69085143/149621738-e1597e14-60e5-49a1-9bb4-dd0ac64440e8.gif)
 
 
+> ## Contributors
+- [Bijendar Prasad](https://github.com/Findcoding "GitHub Profile")
+- [Mitul](https://github.com/mitul19254 "GitHub Profile")
+
+
 ## Animation 2:
 ---
 
